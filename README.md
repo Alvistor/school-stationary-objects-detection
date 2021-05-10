@@ -1,1 +1,1 @@
-# objects-detection
+# objects-detection school stationary items detection
